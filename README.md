@@ -35,8 +35,7 @@ A arquitetura combina **FIWARE + MQTT** para conectar o sensor de som ao aplicat
 - **MongoDB (Historical)** → armazena histórico de interações e estatísticas.  
 - **Aplicação (App + IA)** → interface no celular, responsável por exibir notícias, vídeos e interagir com a IA via texto ou voz.  
 
-### 🔗 Diagrama da Arquitetura
-*(inserir aqui a imagem do diagrama que vocês criaram com Orion, IoT Agent, MongoDB e MQTT)*  
+<img width="963" height="709" alt="image" src="https://github.com/user-attachments/assets/4d9fda24-9fb2-460b-bb68-585dca2c8b9a" />
 
 ---
 
